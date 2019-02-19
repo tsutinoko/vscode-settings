@@ -1,0 +1,22 @@
+{
+    "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}${separator}${appName}",
+    "editor.renderIndentGuides": true,
+    "editor.minimap.showSlider": "always",
+    "editor.cursorBlinking": "smooth",
+    "editor.renderWhitespace":"boundary",
+    "editor.detectIndentation": false,
+    "files.autoGuessEncoding":true,
+    "files.eol":"\n",
+    "files.trimTrailingWhitespace": true,
+    "workbench.colorTheme": "Ayu Mirage",
+    "workbench.iconTheme": "ayu",
+    "npm.packageManager": "yarn",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.editor.enablePreview": false,
+    "editor.renderLineHighlight": "all",
+    "editor.minimap.enabled": false,
+    // "workbench.colorCustomizations": {
+    //     "editor.selectionBackground": "#19662679"
+    // },
+}

@@ -1,0 +1,11 @@
+// 既定値を上書きするには、このファイル内にキー バインドを挿入します
+[
+    {
+        "key": "ctrl+a",
+        "command": "workbench.action.splitEditor"
+    },
+    {
+        "key": "ctrl+alt+cmd+[IntlYen]",
+        "command": "-workbench.action.splitEditor"
+    }
+]
